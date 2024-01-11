@@ -50,7 +50,8 @@ Menu = {
         Premiere = '~b~',
         Deuxieme = '~y~'
     }
-}```
+}
+```
 
 ### Personnalisation des touches d'aide
 
@@ -93,7 +94,8 @@ Aide = {
         Label = "Chat",
         Description = "Ouvrez le chat pour y taper des commandes"
     }
-}```
+}
+```
 
 ### Personnalisation avancée
 
