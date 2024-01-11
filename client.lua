@@ -329,7 +329,7 @@ function OpenMenu()
                         elseif IndexClothes == 4 then -- Sac
                             setUniform('bag', plyPed)
                         end
-                        ESX.ShowNotification('Vous venez vous ~b~changer !')
+                        ESX.ShowNotification('Vous venez de vous ~b~changer !')
                     end
                 })
             end)
